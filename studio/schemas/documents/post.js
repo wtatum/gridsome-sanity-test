@@ -66,6 +66,11 @@ export default {
       name: 'body',
       type: 'bodyPortableText',
       title: 'Body'
+    },
+    {
+      name: 'customer',
+      type: 'string',
+      title: 'Customer'
     }
   ],
   orderings: [
