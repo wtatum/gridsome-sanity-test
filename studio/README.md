@@ -1,0 +1,1 @@
+# gridsome-sanity-test-studio
